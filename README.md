@@ -1,6 +1,6 @@
-# RAGenius
+# Vector Link Search Projesi
 
-**RAGenius**, web linklerinden içerik çekerek sorulara doğal dilde yanıt veren bir Retrieval-Augmented Generation (RAG) sistemidir. `ChromaDB` ile vektör tabanlı bilgi alma ve `Ollama` ile yerel LLM kullanarak hızlı ve doğru yanıtlar sunar.
+Web linklerinden içerik çekerek sorulara doğal dilde yanıt veren bir Retrieval-Augmented Generation (RAG) sistemidir. `ChromaDB` ile vektör tabanlı bilgi alma ve `Ollama` ile yerel LLM kullanarak hızlı ve doğru yanıtlar sunar.
 
 ## Özellikler
 
@@ -23,7 +23,7 @@
 
 1. **Depoyu klonlayın:**
     ```bash
-    git clone https://github.com/GokhanAsilturk/RAGenius_chromaDB_Vector_Link_Search.git
+    git clone https://github.com/GokhanAsilturk/VectorDB_Link_Search.git
     cd RAGenius
     ```
 
